@@ -1,7 +1,6 @@
 ## Hi, Welcome to my page
 
 <img src="profileimage.jpg" alt="drawing" width="200"/>
-I am in <span style="font-family:Papyrus; font-size:10em;">LOVE!</span>
 
 **Madhan** Chandrasekharan
 
