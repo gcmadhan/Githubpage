@@ -1,8 +1,10 @@
 ## Hi, Welcome to my page
 
+<img src="profileimage.jpg" alt="drawing" width="200"/>
+
 **Madhan** Chandrasekharan
 
-I am a professional Project Manager with 12+ years of experience
+I am a professional Project Manager with 12+ years of experience in IT project management. Interested in Statistical modeling, Data Science & Machine learning/Artificial Intelligence implementation. [click here to view my Kaggle Profile](https://www.kaggle.com/gcmadhan)
 
 ### Projects
 ### Computer Vision Projects
