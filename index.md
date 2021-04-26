@@ -17,7 +17,7 @@ I am a professional Project Manager with 12+ years of experience in IT project m
 
 ### Kaggle Data Science 
 ---
-#### [Linear Regression model to predict diamond price](https://www.kaggle.com/gcmadhan/diamond-price-hypothesis-testing-model-98-accur)
-#### [World Happiness indes report - EDA project](https://www.kaggle.com/gcmadhan/world-happiness-index-report)
-#### [Banking campaign Classification problem](https://www.kaggle.com/gcmadhan/bank-campaign-eda-classification-83-accu)
-#### [Logistic regression for Classification problem](https://www.kaggle.com/gcmadhan/classification-with-80-accuracy)
+##### [Linear Regression model to predict diamond price](https://www.kaggle.com/gcmadhan/diamond-price-hypothesis-testing-model-98-accur)
+##### [World Happiness indes report - EDA project](https://www.kaggle.com/gcmadhan/world-happiness-index-report)
+##### [Banking campaign Classification problem](https://www.kaggle.com/gcmadhan/bank-campaign-eda-classification-83-accu)
+##### [Logistic regression for Classification problem](https://www.kaggle.com/gcmadhan/classification-with-80-accuracy)
